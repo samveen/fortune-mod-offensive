@@ -1,3 +1,36 @@
+== Offensive fork of fortune-mod
+
+This fork keeps the offensive content of the fortune.
+
+=== Background
+*TL;DR;* When people talk about family trees, my mother's side has a humongous family forest. Conversely, on my
+father's side I have a family stump. Due to hate, religious hate, in paticular. So no preaching please.
+
+Shortly after world war 2 finished, the British vacated the Indian subcontinent and left a mess. As part of the
+mess was the Partition of of the subcontinent into India and Pakistan on religious lines. My great-grandparents
+were on the wrong side of the border, and all that survived out of the complete family were my 13 year old
+grandfather, and his 3 siblings, the eldest sister at 18.
+
+There are no records of the family beyond the name of my great-grandfather (paternal grandfather's father),
+Mr. Buuta Ram, which I read on my grandfather's paperwork.  I don't recall ever having heard my grandfather's
+mother's name, because asking for it would lead to a lot of bleak rage all around.
+
+My paternal grandmother's family is not a stump, but it's been very well pruned at the 4th level too,
+unfortunately.
+
+So, I've grown up in a family that's suffered due to unreasonable hate. So, I agree with the quote from the
+[original Readme's](https://sources.debian.org/src/fortune-mod/1%3A1.99.1-7.3/README/) (which has been been
+completely discared by this fork's upstream) netbsd section:
+
+
+> 	... let us keep in mind the basic governing philosophy of The
+> Brotherhood, as handsomely summarized in these words: we believe in
+> healthy, hearty laughter -- at the expense of the whole human race, if
+> needs be.
+> 	Needs be.
+> 		-- H. Allen Smith, "Rude Jokes"
+
+
 == fortune-mod Maintenance Version and Ongoing Development
 
 [link=https://travis-ci.com/shlomif/fortune-mod]
